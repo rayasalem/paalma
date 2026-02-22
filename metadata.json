@@ -1,0 +1,5 @@
+{
+  "name": "Palma Marketplace",
+  "description": "Production-ready build of Palma, the integrated Palestinian e-commerce platform featuring multi-role support (Merchant, Broker, Customer, Student), FlashLine logistics integration, and bilingual UI.",
+  "requestFramePermissions": []
+}
